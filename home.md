@@ -2,14 +2,14 @@
 title: Home
 description: Welcome to the Community Chainwiki
 published: true
-date: 2020-09-24T18:49:31.826Z
+date: 2020-09-24T18:49:40.842Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-13T05:55:54.766Z
 ---
 
 # Welcome!
-This wiki is a resource for the community.
+This wiki is a resource for the Pickle Finance community.
 
 The content is freely licensed and available on GitHub:
 
